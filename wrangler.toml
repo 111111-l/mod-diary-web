@@ -1,0 +1,9 @@
+{
+  "build": {
+    "command": "npm run build",
+    "publishDir": "dist",
+    "env": {
+      "NODE_VERSION": "20"
+    }
+  }
+}
